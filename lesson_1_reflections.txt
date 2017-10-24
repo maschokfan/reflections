@@ -1,0 +1,22 @@
+How did diff help you... 
+i didnt have to search the file by myself. it was marked.
+
+how could having easy access to the entire history 	of a file make oyu a more efficient programmer in the long term? 
+- you can see your changes. and your are able to easily make backsteps to previous versions or some parts of them. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- when you choose manually, every commit is for a choosen change. when you make manualle you verlieren very easy the übersicht. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- because there is a differences between the files that are for version control systems and files that are for google Docs. files for version control system have some realtions.
+
+How might using version control make you more confident to make changes that could break something? easier to make backsteps 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+make own commits 
+
+What happens when you initialize a repository? Why do you need to do it?
+- to work with version control software 
+
+
+
